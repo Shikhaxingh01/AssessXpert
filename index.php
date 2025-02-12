@@ -40,12 +40,12 @@
       <p class="text-gray-600 text-lg mb-8 max-w-2xl mx-auto">
         Challenge yourself with our interactive quizzes across various subjects. Learn, compete, and track your progress.
       </p>
-      <button class="bg-blue-600 text-white px-8 py-3 rounded-full hover:bg-blue-700 transition-colors inline-flex items-center gap-2">
+      <a href="login.php"><button class="bg-blue-600 text-white px-8 py-3 rounded-full hover:bg-blue-700 transition-colors inline-flex items-center gap-2">
         Start Quiz
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
           <path d="M10.854 7.146a.5.5 0 0 1 0 .708L7.707 10H12.5a.5.5 0 0 1 0 1H7.707l3.147 2.146a.5.5 0 0 1-.708.707l-4-4a.5.5 0 0 1 0-.707l4-4a.5.5 0 0 1 .708 0z"/>
         </svg>
-      </button>
+      </button></a>
     </section>
 
     <section id="quiz-categories" class="py-16 bg-gray-50">
