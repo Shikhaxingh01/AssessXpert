@@ -7,7 +7,7 @@
 
 # Project Files
 
-This repository contains the following project files:
+This repository contains the following project files:-
 
 | File Name  | Preview |
 |------------|---------|
